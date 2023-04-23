@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\fileProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\longerTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\shortTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\taskAllocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\masterDraw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\gameOn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\fileProcessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\longerTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\shortTask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook3\taskAllocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\masterDraw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\gameOn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{40B91A41-B69F-34AA-A754-AA987E531DC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B2C506A3-9B3C-368C-A271-DB2955A3C3A5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
